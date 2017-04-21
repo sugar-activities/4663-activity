@@ -1,0 +1,8 @@
+[Activity]
+name = Dots and boxes
+activity_version = 2
+bundle_id = org.ceibaljam.dotsandboxes
+icon = boxes-sugar
+exec = sugar-activity activity.Activity
+license = GPLv3
+summary = The classical "Dots and Boxes" game
